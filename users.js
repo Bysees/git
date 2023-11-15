@@ -1,0 +1,1 @@
+const users = ['oleg', 'sasha', 'petya']
