@@ -8,3 +8,7 @@ users.push(newUser)
 function logUsers(users) {
   users.forEach(console.log)
 }
+
+function uppercaseUsers(users) {
+  return users.map((user) => user.toUpperCase())
+}
