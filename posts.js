@@ -5,3 +5,7 @@ posts.pop()
 function clearPosts(posts) {
   posts.length = 0
 }
+
+function addPost(posts, newPost) {
+  posts.push(posts)
+}
